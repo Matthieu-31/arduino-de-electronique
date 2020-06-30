@@ -9,5 +9,3 @@ Pour ce projet, j'ai utilisé:
 - un bouton,
 - un afficheur type 7 segments 1106BW.
 
-description de l'algorithme:
-
