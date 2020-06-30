@@ -8,3 +8,6 @@ Pour ce projet, j'ai utilisé:
 - deux leds (notées ledv et ledr dans le programme),
 - un bouton,
 - un afficheur type 7 segments 1106BW.
+
+description de l'algorithme:
+
