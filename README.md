@@ -9,3 +9,4 @@ Pour ce projet, j'ai utilisé:
 - un bouton,
 - un afficheur type 7 segments 1106BW.
 
+![Screenshot](IMG_20200630_115815.jpg)
