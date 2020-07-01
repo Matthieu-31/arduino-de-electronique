@@ -9,8 +9,8 @@ Pour ce projet, j'ai utilisé:
 - un bouton,
 - un afficheur type 7 segments 1106BW.
 
-vidéo du fonctionement du dé:
-[Video yt](https://www.youtube.com/watch?v=D3Z2h9wa29A)
+Fonctionement du dé:
+[YouTube](https://www.youtube.com/watch?v=D3Z2h9wa29A)
 
 
 ![Screenshot](IMG_20200630_115815.jpg)
