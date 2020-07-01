@@ -13,4 +13,4 @@ vidéo du fonctionement du dé:
 [![SC2 Video](SC2_youtube.gif)](https://www.youtube.com/watch?v=D3Z2h9wa29A)
 
 
-![Screenshot](IMG_20200630_115815.jpg)
+![Screenshot](SC2_youtube.gif)
