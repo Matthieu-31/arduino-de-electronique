@@ -10,7 +10,7 @@ Pour ce projet, j'ai utilisé:
 - un afficheur type 7 segments 1106BW.
 
 vidéo du fonctionement du dé:
-[![SC2 Video](SC2_youtube.gif)](https://www.youtube.com/watch?v=D3Z2h9wa29A)
+[![Video yt]()](https://www.youtube.com/watch?v=D3Z2h9wa29A)
 
 
-![Screenshot](SC2_youtube.gif)
+![Screenshot](IMG_20200630_115815.jpg)
